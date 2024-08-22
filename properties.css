@@ -16,7 +16,8 @@ body{
 }
 .style{
     text-align: right;
-    
+    position:absolute;
+    left: 1000px;
     
 }
 .boxer{
